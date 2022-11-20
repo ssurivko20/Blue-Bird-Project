@@ -39,7 +39,7 @@ unsigned int numberOfPlayers;
 void welcomeFun()
 {
     system("CLS");
-    string temp = "Hello! This is quiz-game which will test your knowledge in Geography! Let's start.)";
+    string temp = "Hello! This is a quiz game that will test your knowledge of geography! Let's start.)";
     printWithDelay(temp, 30);
 
     Sleep(1000);
